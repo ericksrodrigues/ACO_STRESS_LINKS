@@ -1,0 +1,633 @@
+{
+  "directed": false,
+  "graph": [
+    [
+      "DateObtained",
+      "22/10/10"
+    ],
+    [
+      "GeoLocation",
+      "Brazil"
+    ],
+    [
+      "GeoExtent",
+      "Country"
+    ],
+    [
+      "DateModifier",
+      "="
+    ],
+    [
+      "Customer",
+      0
+    ],
+    [
+      "Network",
+      "RNP"
+    ],
+    [
+      "IX",
+      0
+    ],
+    [
+      "Provenance",
+      "Primary"
+    ],
+    [
+      "Access",
+      0
+    ],
+    [
+      "Source",
+      "http://www.rnp.br/backbone/"
+    ],
+    [
+      "Version",
+      "1.0"
+    ],
+    [
+      "DateMonth",
+      "08"
+    ],
+    [
+      "DateYear",
+      "2010"
+    ],
+    [
+      "DateType",
+      "Dynamic"
+    ],
+    [
+      "LastAccess",
+      "3/08/10"
+    ],
+    [
+      "Layer",
+      "IP"
+    ],
+    [
+      "Creator",
+      "Topology Zoo Toolset"
+    ],
+    [
+      "Type",
+      "REN"
+    ],
+    [
+      "SourceGitVersion",
+      "e278b1b"
+    ],
+    [
+      "Backbone",
+      1
+    ],
+    [
+      "Commercial",
+      0
+    ],
+    [
+      "NetworkDate",
+      "2010_08"
+    ],
+    [
+      "label",
+      "Rnp"
+    ],
+    [
+      "LastProcessed",
+      "2011_09_01"
+    ],
+    [
+      "Testbed",
+      0
+    ],
+    [
+      "Developed",
+      0
+    ],
+    [
+      "ToolsetVersion",
+      "0.3.34dev-20120328"
+    ],
+    [
+      "Transit",
+      0
+    ]
+  ],
+  "nodes": [
+    {
+      "Internal": 1,
+      "Latitude": -8.05389,
+      "Country": "Brazil",
+      "id": 0,
+      "Longitude": -34.88111,
+      "label": "Revife"
+    },
+    {
+      "Internal": 1,
+      "Latitude": -9.66583,
+      "Country": "Brazil",
+      "id": 1,
+      "Longitude": -35.73528,
+      "label": "Maceio"
+    },
+    {
+      "Internal": 1,
+      "Latitude": -7.23056,
+      "Country": "Brazil",
+      "id": 2,
+      "Longitude": -35.88111,
+      "label": "Campina Grande"
+    },
+    {
+      "Internal": 1,
+      "Latitude": -7.115,
+      "Country": "Brazil",
+      "id": 3,
+      "Longitude": -34.86306,
+      "label": "Jobo Passoa"
+    },
+    {
+      "Internal": 1,
+      "Latitude": -15.77972,
+      "Country": "Brazil",
+      "id": 4,
+      "Longitude": -47.92972,
+      "label": "Brasilia"
+    },
+    {
+      "Internal": 1,
+      "Latitude": -19.92083,
+      "Country": "Brazil",
+      "id": 5,
+      "Longitude": -43.93778,
+      "label": "Belo Horizonte"
+    },
+    {
+      "Internal": 1,
+      "Latitude": -10.91111,
+      "Country": "Brazil",
+      "id": 6,
+      "Longitude": -37.07167,
+      "label": "Aracaju"
+    },
+    {
+      "Internal": 1,
+      "Latitude": -12.97111,
+      "Country": "Brazil",
+      "id": 7,
+      "Longitude": -38.51083,
+      "label": "Salvador"
+    },
+    {
+      "Internal": 1,
+      "Latitude": -20.31944,
+      "Country": "Brazil",
+      "id": 8,
+      "Longitude": -40.33778,
+      "label": "Vitoria"
+    },
+    {
+      "Internal": 1,
+      "Latitude": -22.90278,
+      "Country": "Brazil",
+      "id": 9,
+      "Longitude": -43.2075,
+      "label": "Rio de Janeiro"
+    },
+    {
+      "Internal": 1,
+      "Latitude": -3.10194,
+      "Country": "Brazil",
+      "id": 10,
+      "Longitude": -60.025,
+      "label": "Manaus"
+    },
+    {
+      "Internal": 1,
+      "Latitude": -16.67861,
+      "Country": "Brazil",
+      "id": 11,
+      "Longitude": -49.25389,
+      "label": "Goiania"
+    },
+    {
+      "Internal": 1,
+      "Latitude": -15.59611,
+      "Country": "Brazil",
+      "id": 12,
+      "Longitude": -56.09667,
+      "label": "Cuiaba"
+    },
+    {
+      "Internal": 1,
+      "Latitude": -25.42778,
+      "Country": "Brazil",
+      "id": 13,
+      "Longitude": -49.27306,
+      "label": "Curitiba"
+    },
+    {
+      "Internal": 1,
+      "Latitude": -30.03306,
+      "Country": "Brazil",
+      "id": 14,
+      "Longitude": -51.23,
+      "label": "Porto Alegro"
+    },
+    {
+      "Internal": 1,
+      "Latitude": -27.59667,
+      "Country": "Brazil",
+      "id": 15,
+      "Longitude": -48.54917,
+      "label": "Florianopolis"
+    },
+    {
+      "Internal": 1,
+      "Latitude": -23.5475,
+      "Country": "Brazil",
+      "id": 16,
+      "Longitude": -46.63611,
+      "label": "Sao Paulo"
+    },
+    {
+      "Internal": 1,
+      "Latitude": -8.76194,
+      "Country": "Brazil",
+      "id": 17,
+      "Longitude": -63.90389,
+      "label": "Porto Velho"
+    },
+    {
+      "Internal": 1,
+      "Latitude": -9.97472,
+      "Country": "Brazil",
+      "id": 18,
+      "Longitude": -67.81,
+      "label": "Rio Branco"
+    },
+    {
+      "Internal": 1,
+      "Latitude": -10.21278,
+      "Country": "Brazil",
+      "id": 19,
+      "Longitude": -48.36028,
+      "label": "Palmas"
+    },
+    {
+      "Internal": 1,
+      "Latitude": -20.44278,
+      "Country": "Brazil",
+      "id": 20,
+      "Longitude": -54.64639,
+      "label": "Campo Grande"
+    },
+    {
+      "Internal": 1,
+      "Latitude": -5.08917,
+      "Country": "Brazil",
+      "id": 21,
+      "Longitude": -42.80194,
+      "label": "Teresina"
+    },
+    {
+      "Internal": 1,
+      "Latitude": -5.795,
+      "Country": "Brazil",
+      "id": 22,
+      "Longitude": -35.20944,
+      "label": "Natal"
+    },
+    {
+      "Internal": 0,
+      "id": 23,
+      "label": "RedCLARA"
+    },
+    {
+      "Internal": 0,
+      "id": 24,
+      "label": "Inetnet Comercial"
+    },
+    {
+      "Internal": 0,
+      "id": 25,
+      "label": "Americas Light"
+    },
+    {
+      "Internal": 1,
+      "Latitude": 2.81972,
+      "Country": "Brazil",
+      "id": 26,
+      "Longitude": -60.67333,
+      "label": "Boa Vista"
+    },
+    {
+      "Internal": 1,
+      "Latitude": 0.03889,
+      "Country": "Brazil",
+      "id": 27,
+      "Longitude": -51.06639,
+      "label": "Macapa"
+    },
+    {
+      "Internal": 1,
+      "Latitude": -1.45583,
+      "Country": "Brazil",
+      "id": 28,
+      "Longitude": -48.50444,
+      "label": "Belem"
+    },
+    {
+      "Internal": 1,
+      "Latitude": -2.52972,
+      "Country": "Brazil",
+      "id": 29,
+      "Longitude": -44.30278,
+      "label": "Sao Luis"
+    },
+    {
+      "Internal": 1,
+      "Latitude": -3.71722,
+      "Country": "Brazil",
+      "id": 30,
+      "Longitude": -38.54306,
+      "label": "Fortaleza"
+    }
+  ],
+  "links": [
+    {
+      "LinkSpeed": "10",
+      "source": 0,
+      "LinkLabel": "10Gbps",
+      "target": 2,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 10000000000
+    },
+    {
+      "LinkSpeed": "3",
+      "source": 0,
+      "LinkLabel": "3Gbps",
+      "target": 21,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 3000000000
+    },
+    {
+      "LinkSpeed": "10",
+      "source": 1,
+      "LinkLabel": "10Gbps",
+      "target": 6,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 10000000000
+    },
+    {
+      "LinkSpeed": "10",
+      "source": 2,
+      "LinkLabel": "10Gbps",
+      "target": 3,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 10000000000
+    },
+    {
+      "LinkSpeed": "10",
+      "source": 3,
+      "LinkLabel": "10Gbps",
+      "target": 22,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 10000000000
+    },
+    {
+      "LinkSpeed": "10",
+      "source": 4,
+      "LinkLabel": "10Gbps",
+      "target": 9,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 10000000000
+    },
+    {
+      "LinkSpeed": "20",
+      "source": 4,
+      "LinkLabel": "20Mbps",
+      "target": 26,
+      "LinkSpeedUnits": "M",
+      "LinkSpeedRaw": 20000000
+    },
+    {
+      "LinkSpeed": "20",
+      "source": 4,
+      "LinkLabel": "20Mbps",
+      "target": 27,
+      "LinkSpeedUnits": "M",
+      "LinkSpeedRaw": 20000000
+    },
+    {
+      "LinkSpeed": "200",
+      "source": 4,
+      "LinkLabel": "200Mbps",
+      "target": 10,
+      "LinkSpeedUnits": "M",
+      "LinkSpeedRaw": 200000000
+    },
+    {
+      "LinkSpeed": "10",
+      "source": 4,
+      "LinkLabel": "10Gbps",
+      "target": 5,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 10000000000
+    },
+    {
+      "LinkSpeed": "10",
+      "source": 5,
+      "LinkLabel": "10Gbps",
+      "target": 16,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 10000000000
+    },
+    {
+      "LinkSpeed": "10",
+      "source": 5,
+      "LinkLabel": "10Gbps",
+      "target": 30,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 10000000000
+    },
+    {
+      "LinkSpeed": "10",
+      "source": 5,
+      "LinkLabel": "10Gbps",
+      "target": 7,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 10000000000
+    },
+    {
+      "LinkSpeed": "10",
+      "source": 6,
+      "LinkLabel": "10Gbps",
+      "target": 7,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 10000000000
+    },
+    {
+      "LinkSpeed": "10",
+      "source": 7,
+      "LinkLabel": "10Gbps",
+      "target": 8,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 10000000000
+    },
+    {
+      "LinkSpeed": "10",
+      "source": 8,
+      "LinkLabel": "10Gbps",
+      "target": 9,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 10000000000
+    },
+    {
+      "LinkSpeed": "10",
+      "source": 9,
+      "LinkLabel": "10Gbps",
+      "target": 16,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 10000000000
+    },
+    {
+      "LinkSpeed": "3",
+      "source": 11,
+      "LinkLabel": "3Gbps",
+      "target": 19,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 3000000000
+    },
+    {
+      "LinkSpeed": "3",
+      "source": 11,
+      "LinkLabel": "3Gbps",
+      "target": 12,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 3000000000
+    },
+    {
+      "LinkSpeed": "3",
+      "source": 12,
+      "LinkLabel": "3Gbps",
+      "target": 17,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 3000000000
+    },
+    {
+      "LinkSpeed": "3",
+      "source": 12,
+      "LinkLabel": "3Gbps",
+      "target": 20,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 3000000000
+    },
+    {
+      "LinkSpeed": "10",
+      "source": 13,
+      "LinkLabel": "10Gbps",
+      "target": 16,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 10000000000
+    },
+    {
+      "LinkSpeed": "3",
+      "source": 13,
+      "LinkLabel": "3Gbps",
+      "target": 20,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 3000000000
+    },
+    {
+      "LinkSpeed": "10",
+      "source": 13,
+      "LinkLabel": "10Gbps",
+      "target": 14,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 10000000000
+    },
+    {
+      "LinkSpeed": "10",
+      "source": 14,
+      "LinkLabel": "10Gbps",
+      "target": 15,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 10000000000
+    },
+    {
+      "LinkSpeed": "10",
+      "source": 15,
+      "LinkLabel": "10Gbps",
+      "target": 16,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 10000000000
+    },
+    {
+      "LinkSpeed": "1.45",
+      "source": 16,
+      "LinkLabel": "1.45Gbps",
+      "target": 23,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 1450000000
+    },
+    {
+      "LinkSpeed": "3.5",
+      "source": 16,
+      "LinkLabel": "3.5Gbps",
+      "target": 24,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 3500000000
+    },
+    {
+      "LinkSpeed": "20",
+      "source": 16,
+      "LinkLabel": "20Gbps",
+      "target": 25,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 20000000000
+    },
+    {
+      "LinkSpeed": "3",
+      "source": 17,
+      "LinkLabel": "3Gbps",
+      "target": 18,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 3000000000
+    },
+    {
+      "LinkSpeed": "3",
+      "source": 21,
+      "LinkLabel": "3Gbps",
+      "target": 28,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 3000000000
+    },
+    {
+      "LinkSpeed": "10",
+      "source": 22,
+      "LinkLabel": "10Gbps",
+      "target": 30,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 10000000000
+    },
+    {
+      "LinkSpeed": "3",
+      "source": 28,
+      "LinkLabel": "3Gbps",
+      "target": 29,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 3000000000
+    },
+    {
+      "LinkSpeed": "3",
+      "source": 29,
+      "LinkLabel": "3Gbps",
+      "target": 30,
+      "LinkSpeedUnits": "G",
+      "LinkSpeedRaw": 3000000000
+    }
+  ],
+  "multigraph": true
+}
